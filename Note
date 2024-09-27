@@ -1,0 +1,35 @@
+npm create vite@latest
+
+run:
+
+  npm i
+  npm run dev
+setting:
+  emmet
+  add item
+
+_______________________________________
+
+1. Name it with Uppercase
+
+
+2. Create new folder in src name components:
+    
+__________________________________________
+
+Now CSS:
+  1.Why use all:usent? 
+      : to clear default css of the button
+
+  2. var(--red)?
+      : to explain in :root{}
+
+  3.display:flex?
+      : to make in horizontal
+  
+  4.list-style:none?
+      : it make list unbullet
+  
+  5.gap?
+      :It make 24px gap in the list
+  
